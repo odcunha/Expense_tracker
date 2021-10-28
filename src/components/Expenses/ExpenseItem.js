@@ -1,8 +1,6 @@
 import "./ExpenseItem.css";
 import ExpenseDate from "./ExpenseDate";
-import { useState } from "react";
 import Card from "../UI/Card";
-import ExpensesFilter from "./ExpensesFilter";
 
 const ExpenseItem = (props) => {
   return (
